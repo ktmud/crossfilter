@@ -1210,4 +1210,4 @@ function crossfilter_capacity(w) {
       ? 0x10000
       : 0x100000000;
 }
-})(this);
+})(module.exports);
